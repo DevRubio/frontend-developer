@@ -1,2 +1,2 @@
 # frontend-developer
-Curso Frontedn Developer Platzi
+Curso Frontend Developer Platzi
