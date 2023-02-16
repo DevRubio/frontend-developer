@@ -89,7 +89,7 @@ function renderProducts(arr){
         productInfo.classList.add('product-info')
         productPrice.innerText = '$' + product.price
         productName.innerText = product.name
-        productImgCard.setAttribute('src','/icons/bt_add_to_cart.svg')
+        productImgCard.setAttribute('src','icons/bt_add_to_cart.svg')
         
         productInfoDiv.appendChild(productPrice)
         productInfoDiv.appendChild(productName)
